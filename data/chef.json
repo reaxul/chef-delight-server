@@ -29,7 +29,7 @@
         "experience": "12 years",
         "recipes": 27,
         "likes": 120,
-        "image": "https://example.com/chef-chen.jpg"
+        "image": "https://as1.ftcdn.net/v2/jpg/01/79/87/16/1000_F_179871667_zhssZ8PKxOSiZfU5RUi0ZTnFZ8j4YHYN.jpg"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "experience": "6 years",
         "recipes": 18,
         "likes": 70,
-        "image": "https://example.com/chef-liu.jpg"
+        "image": "https://as2.ftcdn.net/v2/jpg/02/05/13/99/1000_F_205139943_caDpZjv603XY76jqcIUg8jH2rvc6YHD0.jpg"
     },
     {
         "id": 6,
@@ -45,6 +45,6 @@
         "experience": "20 years",
         "recipes": 40,
         "likes": 200,
-        "image": "https://example.com/chef-yang.jpg"
+        "image": "https://as1.ftcdn.net/v2/jpg/02/94/46/36/1000_F_294463696_M9xAaM8TfJUfqwzegT8yEqQxYorcmqsz.jpg"
     }
 ]

@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Chef John",
+        "image": "https://example.com/chef-john.jpg",
+        "bio": "Chef John is a Chinese cuisine expert with over 20 years of experience. He loves to experiment with flavors and textures, and his recipes are always a hit with his fans.",
+        "likes": 500,
+        "experience": 20,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Chicken breast",
+                    "Soy sauce",
+                    "Szechuan peppercorns",
+                    "Red bell pepper",
+                    "Scallions"
+                ],
+                "cooking_method": "Cut the chicken into small cubes and marinate it with soy sauce and cornstarch. Stir-fry the chicken in a hot wok until browned, then add the Szechuan peppercorns, red bell pepper, and scallions. Serve hot with rice.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken broth",
+                    "Mushrooms",
+                    "Bamboo shoots",
+                    "Vinegar",
+                    "White pepper"
+                ],
+                "cooking_method": "Boil the chicken broth in a pot and add the mushrooms, bamboo shoots, vinegar, and white pepper. Add some beaten eggs and stir until cooked. Serve hot.",
+                "rating": 4.2,
+                "favorite": true
+            },
+            {
+                "id": 3,
+                "name": "Moo Shu Pork",
+                "ingredients": [
+                    "Pork shoulder",
+                    "Cabbage",
+                    "Carrots",
+                    "Wood ear mushrooms",
+                    "Hoisin sauce"
+                ],
+                "cooking_method": "Thinly slice the pork and stir-fry it with the cabbage, carrots, and wood ear mushrooms. Add hoisin sauce and cook until the vegetables are tender. Serve with pancakes and scallions.",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chef Wang",
+        "image": "https://example.com/chef-wang.jpg",
+        "bio": "Chef Wang is a master of Chinese street food. He has been cooking since he was a child and his recipes are inspired by the flavors of his hometown.",
+        "likes": 1000,
+        "experience": 15,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Dumplings",
+                "ingredients": [
+                    "Ground pork",
+                    "Green onions",
+                    "Ginger",
+                    "Soy sauce",
+                    "Sesame oil"
+                ],
+                "cooking_method": "Mix the ground pork with green onions, ginger, soy sauce, and sesame oil. Spoon the filling into dumpling wrappers and seal them by pinching the edges together. Boil the dumplings until cooked and serve with soy sauce and vinegar.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "id": 2,
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "Flour",
+                    "Scallions",
+                    "Sesame oil",
+                    "Salt",
+                    "Water"
+                ],
+                "cooking_method": "Mix flour, salt, and water to make the dough. Roll the dough into a thin pancake and sprinkle scallions on top. Roll the pancake into a cylinder",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "name": "Dumplings",
+                "ingredients": [
+                    "Ground pork",
+                    "Green onions",
+                    "Ginger",
+                    "Soy sauce",
+                    "Sesame oil"
+                ],
+                "cooking_method": "Mix the ground pork with green onions, ginger, soy sauce, and sesame oil. Spoon the filling into dumpling wrappers and seal them by pinching the edges together. Boil the dumplings until cooked and serve with soy sauce and vinegar.",
+                "rating": 4.8,
+                "favorite": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Liu Chang",
+        "image": "https://example.com/liu-chang.jpg",
+        "bio": "Liu Chang is a master chef from Beijing with over 20 years of experience. She specializes in Sichuan and Cantonese cuisines and has won numerous awards for her innovative dishes.",
+        "likes": 1000,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast",
+                    "2 tbsp cornstarch",
+                    "2 tbsp soy sauce",
+                    "1 tbsp vegetable oil",
+                    "1 tbsp sesame oil",
+                    "3 cloves garlic",
+                    "1/4 cup peanuts",
+                    "1/2 red bell pepper",
+                    "1/2 green bell pepper",
+                    "1/2 onion"
+                ],
+                "cooking_method": "1. Cut chicken into small cubes and marinate with cornstarch and soy sauce. 2. Heat vegetable oil and sesame oil in a wok over high heat. 3. Add chicken and stir-fry until browned. 4. Add garlic, peanuts, bell peppers, and onion. Stir-fry for 1-2 minutes. 5. Serve hot with rice.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken broth",
+                    "1/2 cup shiitake mushrooms",
+                    "1/2 cup bamboo shoots",
+                    "1/2 cup tofu",
+                    "2 tbsp soy sauce",
+                    "2 tbsp rice vinegar",
+                    "1 tsp chili paste",
+                    "1 egg",
+                    "1 scallion"
+                ],
+                "cooking_method": "1. Bring chicken broth to a boil in a large pot. 2. Add mushrooms, bamboo shoots, tofu, soy sauce, rice vinegar, and chili paste. 3. Simmer for 5-10 minutes. 4. Beat the egg in a small bowl and pour it slowly into the soup while stirring. 5. Garnish with chopped scallions. 6. Serve hot.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "id": 3,
+                "name": "Ma Po Tofu",
+                "ingredients": [
+                    "1 block tofu",
+                    "1/2 lb ground pork",
+                    "2 cloves garlic",
+                    "1/2 inch ginger",
+                    "1 tbsp doubanjiang",
+                    "1 tsp soy sauce",
+                    "1 tsp Sichuan peppercorn powder",
+                    "1 scallion",
+                    "1 tbsp vegetable oil"
+                ],
+                "cooking_method": "1. Cut tofu into small cubes. 2. Heat vegetable oil in a wok over medium heat. 3. Add garlic, ginger, and ground pork. Stir-fry until pork is browned. 4. Add doubanjiang, soy sauce, and Sichuan peppercorn powder. Stir-fry for 1-2 minutes. 5. Add tofu and stir gently. 6. Simmer for 5-10 minutes. 7. Garnish with chopped scallions. 8. Serve hot with rice.",
+                "rating": 4.6,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Xiao Ming",
+        "image": "https://example.com/chef-xiao-ming.jpg",
+        "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
+        "likes": 1500,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "peanuts",
+                    "vegetable oil",
+                    "soy sauce",
+                    "cornstarch"
+                ],
+                "method": "1. Cut the chicken into bite-sized pieces. \n2. Mix together the cornstarch and soy sauce in a bowl, then add the chicken and toss to coat. \n3. Heat the oil in a wok or large frying pan over high heat. Add the chicken and stir-fry for 2-3 minutes or until lightly browned. \n4. Add the peanuts and continue to stir-fry for another 2-3 minutes. \n5. Serve hot.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "tofu",
+                    "bamboo shoots",
+                    "mushrooms",
+                    "chicken stock",
+                    "rice vinegar"
+                ],
+                "method": "1. In a large pot, bring the chicken stock to a boil. \n2. Add the tofu, bamboo shoots, and mushrooms and bring back to a boil. \n3. In a separate bowl, whisk together the cornstarch and water to make a slurry. \n4. Slowly pour the slurry into the soup while stirring constantly. \n5. Add the rice vinegar and stir to combine. \n6. Serve hot.",
+                "rating": 4.2,
+                "favorite": true
+            },
+            {
+                "id": 3,
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "chili bean paste",
+                    "garlic",
+                    "scallions"
+                ],
+                "method": "1. Cut the tofu into small cubes. \n2. Brown the ground pork in a wok or large frying pan. \n3. Add the garlic and scallions and cook for 1-2 minutes. \n4. Add the chili bean paste and cook for another minute. \n5. Add the tofu and a cup of water. \n6. Simmer for 5-10 minutes, or until the sauce has thickened. \n7. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Xiao Ming",
+        "image": "https://example.com/chef-xiao-ming.jpg",
+        "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
+        "likes": 1500,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "peanuts",
+                    "vegetable oil",
+                    "soy sauce",
+                    "cornstarch"
+                ],
+                "method": "1. Cut the chicken into bite-sized pieces. \n2. Mix together the cornstarch and soy sauce in a bowl, then add the chicken and toss to coat. \n3. Heat the oil in a wok or large frying pan over high heat. Add the chicken and stir-fry for 2-3 minutes or until lightly browned. \n4. Add the peanuts and continue to stir-fry for another 2-3 minutes. \n5. Serve hot.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "tofu",
+                    "bamboo shoots",
+                    "mushrooms",
+                    "chicken stock",
+                    "rice vinegar"
+                ],
+                "method": "1. In a large pot, bring the chicken stock to a boil. \n2. Add the tofu, bamboo shoots, and mushrooms and bring back to a boil. \n3. In a separate bowl, whisk together the cornstarch and water to make a slurry. \n4. Slowly pour the slurry into the soup while stirring constantly. \n5. Add the rice vinegar and stir to combine. \n6. Serve hot.",
+                "rating": 4.2,
+                "favorite": true
+            },
+            {
+                "id": 3,
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "chili bean paste",
+                    "garlic",
+                    "scallions"
+                ],
+                "method": "1. Cut the tofu into small cubes. \n2. Brown the ground pork in a wok or large frying pan. \n3. Add the garlic and scallions and cook for 1-2 minutes. \n4. Add the chili bean paste and cook for another minute. \n5. Add the tofu and a cup of water. \n6. Simmer for 5-10 minutes, or until the sauce has thickened. \n7. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Xiao Ming",
+        "image": "https://example.com/chef-xiao-ming.jpg",
+        "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
+        "likes": 1500,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "peanuts",
+                    "vegetable oil",
+                    "soy sauce",
+                    "cornstarch"
+                ],
+                "method": "1. Cut the chicken into bite-sized pieces. \n2. Mix together the cornstarch and soy sauce in a bowl, then add the chicken and toss to coat. \n3. Heat the oil in a wok or large frying pan over high heat. Add the chicken and stir-fry for 2-3 minutes or until lightly browned. \n4. Add the peanuts and continue to stir-fry for another 2-3 minutes. \n5. Serve hot.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "tofu",
+                    "bamboo shoots",
+                    "mushrooms",
+                    "chicken stock",
+                    "rice vinegar"
+                ],
+                "method": "1. In a large pot, bring the chicken stock to a boil. \n2. Add the tofu, bamboo shoots, and mushrooms and bring back to a boil. \n3. In a separate bowl, whisk together the cornstarch and water to make a slurry. \n4. Slowly pour the slurry into the soup while stirring constantly. \n5. Add the rice vinegar and stir to combine. \n6. Serve hot.",
+                "rating": 4.2,
+                "favorite": true
+            },
+            {
+                "id": 3,
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "chili bean paste",
+                    "garlic",
+                    "scallions"
+                ],
+                "method": "1. Cut the tofu into small cubes. \n2. Brown the ground pork in a wok or large frying pan. \n3. Add the garlic and scallions and cook for 1-2 minutes. \n4. Add the chili bean paste and cook for another minute. \n5. Add the tofu and a cup of water. \n6. Simmer for 5-10 minutes, or until the sauce has thickened. \n7. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            }
+        ]
+    }
+]
