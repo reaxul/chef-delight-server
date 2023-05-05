@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Chef Wang",
+        "experience": "10 years",
+        "recipes": 25,
+        "likes": 100,
+        "image": "https://example.com/chef-wang.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chef Li",
+        "experience": "15 years",
+        "recipes": 30,
+        "likes": 150,
+        "image": "https://example.com/chef-li.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Chef Zhang",
+        "experience": "8 years",
+        "recipes": 20,
+        "likes": 80,
+        "image": "https://example.com/chef-zhang.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chef Chen",
+        "experience": "12 years",
+        "recipes": 27,
+        "likes": 120,
+        "image": "https://example.com/chef-chen.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chef Liu",
+        "experience": "6 years",
+        "recipes": 18,
+        "likes": 70,
+        "image": "https://example.com/chef-liu.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chef Yang",
+        "experience": "20 years",
+        "recipes": 40,
+        "likes": 200,
+        "image": "https://example.com/chef-yang.jpg"
+    }
+]
