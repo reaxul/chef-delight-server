@@ -108,6 +108,7 @@
         "image": "https://t4.ftcdn.net/jpg/01/18/99/19/240_F_118991962_IlAk38Cdy4qg5AiPRnPpbCQZ4QiZnhLw.jpg",
         "bio": "Liu Chang is a master chef from Beijing with over 20 years of experience. She specializes in Sichuan and Cantonese cuisines and has won numerous awards for her innovative dishes.",
         "likes": 1000,
+        "experience": 11,
         "recipes": [
             {
                 "id": 1,
@@ -172,6 +173,7 @@
         "image": "https://as1.ftcdn.net/v2/jpg/01/79/87/16/1000_F_179871667_zhssZ8PKxOSiZfU5RUi0ZTnFZ8j4YHYN.jpg",
         "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
         "likes": 1500,
+        "experience": 17,
         "recipes": [
             {
                 "id": 1,
@@ -223,6 +225,7 @@
         "image": "https://as2.ftcdn.net/v2/jpg/02/05/13/99/1000_F_205139943_caDpZjv603XY76jqcIUg8jH2rvc6YHD0.jpg",
         "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
         "likes": 1500,
+        "experience": 11,
         "recipes": [
             {
                 "id": 1,
@@ -274,6 +277,7 @@
         "image": "https://as1.ftcdn.net/v2/jpg/02/94/46/36/1000_F_294463696_M9xAaM8TfJUfqwzegT8yEqQxYorcmqsz.jpg",
         "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
         "likes": 1500,
+        "experience": 8,
         "recipes": [
             {
                 "id": 1,
