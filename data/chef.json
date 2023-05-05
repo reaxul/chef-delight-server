@@ -5,7 +5,7 @@
         "experience": "10 years",
         "recipes": 25,
         "likes": 100,
-        "image": "https://example.com/chef-wang.jpg"
+        "image": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=996&t=st=1683268102~exp=1683268702~hmac=21858535ca7aa7c6a4a4051099262457d3083e54a2c51735d8148262d727130b"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "experience": "15 years",
         "recipes": 30,
         "likes": 150,
-        "image": "https://example.com/chef-li.jpg"
+        "image": "https://as1.ftcdn.net/v2/jpg/02/07/72/36/1000_F_207723662_L1ISxLjIyqId3FS75DmIFLnUec7yyFJ9.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "experience": "8 years",
         "recipes": 20,
         "likes": 80,
-        "image": "https://example.com/chef-zhang.jpg"
+        "image": "https://t4.ftcdn.net/jpg/01/18/99/19/240_F_118991962_IlAk38Cdy4qg5AiPRnPpbCQZ4QiZnhLw.jpg"
     },
     {
         "id": 4,
