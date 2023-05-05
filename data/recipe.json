@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Chef John",
-        "image": "https://example.com/chef-john.jpg",
+        "image": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=996&t=st=1683268102~exp=1683268702~hmac=21858535ca7aa7c6a4a4051099262457d3083e54a2c51735d8148262d727130b",
         "bio": "Chef John is a Chinese cuisine expert with over 20 years of experience. He loves to experiment with flavors and textures, and his recipes are always a hit with his fans.",
         "likes": 500,
         "experience": 20,
@@ -54,7 +54,7 @@
     {
         "id": 2,
         "name": "Chef Wang",
-        "image": "https://example.com/chef-wang.jpg",
+        "image": "https://as1.ftcdn.net/v2/jpg/02/07/72/36/1000_F_207723662_L1ISxLjIyqId3FS75DmIFLnUec7yyFJ9.jpg",
         "bio": "Chef Wang is a master of Chinese street food. He has been cooking since he was a child and his recipes are inspired by the flavors of his hometown.",
         "likes": 1000,
         "experience": 15,
@@ -105,7 +105,7 @@
     {
         "id": 3,
         "name": "Liu Chang",
-        "image": "https://example.com/liu-chang.jpg",
+        "image": "https://t4.ftcdn.net/jpg/01/18/99/19/240_F_118991962_IlAk38Cdy4qg5AiPRnPpbCQZ4QiZnhLw.jpg",
         "bio": "Liu Chang is a master chef from Beijing with over 20 years of experience. She specializes in Sichuan and Cantonese cuisines and has won numerous awards for her innovative dishes.",
         "likes": 1000,
         "recipes": [
@@ -169,7 +169,7 @@
     {
         "id": 4,
         "name": "Xiao Ming",
-        "image": "https://example.com/chef-xiao-ming.jpg",
+        "image": "https://as1.ftcdn.net/v2/jpg/01/79/87/16/1000_F_179871667_zhssZ8PKxOSiZfU5RUi0ZTnFZ8j4YHYN.jpg",
         "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
         "likes": 1500,
         "recipes": [
@@ -220,7 +220,7 @@
     {
         "id": 5,
         "name": "Xiao Ming",
-        "image": "https://example.com/chef-xiao-ming.jpg",
+        "image": "https://as2.ftcdn.net/v2/jpg/02/05/13/99/1000_F_205139943_caDpZjv603XY76jqcIUg8jH2rvc6YHD0.jpg",
         "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
         "likes": 1500,
         "recipes": [
@@ -271,7 +271,7 @@
     {
         "id": 6,
         "name": "Xiao Ming",
-        "image": "https://example.com/chef-xiao-ming.jpg",
+        "image": "https://as1.ftcdn.net/v2/jpg/02/94/46/36/1000_F_294463696_M9xAaM8TfJUfqwzegT8yEqQxYorcmqsz.jpg",
         "bio": "Xiao Ming is a Chinese chef with over 15 years of experience. He is known for his spicy Sichuan dishes and has won several awards for his cooking.",
         "likes": 1500,
         "recipes": [

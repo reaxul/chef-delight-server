@@ -2,8 +2,19 @@ const express = require('express')
 const app = express()
 const cors = require('cors')
 const port = process.env.port || 3000
+
 const chef = require('./data/chef.json')
+const chefRecipe = require('./data/recipe.json')
+
 app.use(cors())
+app.get('/chef-recipe', (req, res) => { 
+    res.send(chefRecipe)
+})
+app.get('/chef-recipe/:id', (req, res) => { 
+    const id = req.params.id;
+    const selectedChefs = chefRecipe.find(chef => chef.id == id)
+    res.send(selectedChefs)
+})
 app.get('/chef', (req, res) => {
     res.send(chef)
 })
